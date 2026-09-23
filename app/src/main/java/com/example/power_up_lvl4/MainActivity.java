@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
     private  void edti()
     {
         T1.setText("MXM");
-
     }
     private  void Color_ss()
     {
